@@ -19,7 +19,7 @@ DICUI relies on the following projects:
 Even though this is written in C#, this program can only be used on Windows systems due to one of the base programs, DiscImageCreator, being Windows-only. There is some preliminary support for Linux underway, and we will try to integrate with that when the time comes.
 
 - Windows 7 (newest version of Windows recommended)
-- .NET Framework 4.6.2, .NET Framework 4.7.2, or .NET Core 3.0 Runtimes (.NET Core 3.0 is not currently functional due to a dependency, please do not use it)
+- [.NET Framework 4.6.2](https://www.microsoft.com/en-us/download/details.aspx?id=53344), [.NET Framework 4.7.2](https://support.microsoft.com/en-us/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows), or .NET Core 3.0 Runtimes (.NET Core 3.0 is not currently functional due to a dependency, please do not use it)
 - 128 MB of free RAM
 - As much hard drive space as amount of discs you will be dumping (20+ GB recommended)
 
